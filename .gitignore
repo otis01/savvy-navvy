@@ -1,0 +1,8 @@
+venv/
+.env
+.DS_Store
+.idea/
+/downloads/*
+!/downloads/.gitkeep
+/uploads/*
+!/uploads/.gitkeep
